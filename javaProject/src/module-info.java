@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author iremsu
+ *
+ */
+module javaProject {
+}
